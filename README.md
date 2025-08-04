@@ -1,11 +1,3 @@
----
-
-# WAVE: A VAE-based Model for Drug-Induced Gene Expression Prediction
-
-**WAVE** is a deep learning framework built with PyTorch that predicts drug-induced gene expression changes. It leverages a **Variational Autoencoder (VAE)** to capture the latent representation of baseline gene expression and combines it with drug molecular fingerprints to model transcriptomic perturbations.
-
----
-
 ##  Model Architecture
 
 WAVE consists of three main components:
